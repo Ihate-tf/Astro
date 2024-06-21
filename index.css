@@ -8,3 +8,8 @@
 body {
     color: red;
 }
+
+header{
+    color: blue;
+    /* completely different style */
+}
